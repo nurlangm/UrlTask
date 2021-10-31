@@ -1,0 +1,115 @@
+#twitter:hover{
+color:rgb(86, 223, 223);
+}
+#insta:hover{
+   color:#dd197b;
+}
+#youtube:hover{
+    color: red;
+}
+.box{
+    box-sizing: border-box;
+    height: 45px ;
+    width: 460px;
+    background-color:rgb(29, 161, 242,0.8);
+    margin-left: 540px;
+    margin-top: 134px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.box1{
+    box-sizing: border-box;
+    height: 45px ;
+    width: 460px;
+    background-color:rgb(29, 161, 242,0.8);
+    margin-left: 540px;
+    margin-top: 6px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.box2{
+    box-sizing: border-box;
+    height: 45px ;
+    width: 460px;
+    background-color:rgb(29, 161, 242,0.8);
+    margin-left: 540px;
+    margin-top: 6px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.box3{
+    box-sizing: border-box;
+    height: 45px ;
+    width: 460px;
+    background-color:rgb(29, 161, 242,0.8);
+    margin-left: 540px;
+    margin-top: 6px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.box4{
+    box-sizing: border-box;
+    height: 45px ;
+    width: 460px;
+    background-color:rgb(29, 161, 242,0.8);
+    margin-left: 540px;
+    margin-top: 6px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+#text{
+    margin-top: 15px;
+    font-size: 17px;
+  
+}
+.up{
+    
+    height: 30px;
+    background-color: rgb(206, 174, 70);
+}
+.image{
+    background-image:url(https://i.ytimg.com/vi/auXnKaif6Ew/mqdefault.jpg);
+    margin-top: -230px;
+    width: 107px;
+    height: 102px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: 160%;
+    margin-left: 716px;
+   margin-bottom: 4px;
+}
+#name{
+    margin-top: 10px;
+    font-size: 25px;
+    padding-bottom: 50px;
+   
+}
+i{
+    font-size: 28px;
+    margin-left: 15px;
+    color: rgb(24, 18, 18,0.7);
+}
+.name{
+    
+    padding-top: 213px;
+    font-size: 17px;
+    text-align: center;
+}
+.icons{
+    margin-top: 30px;
+    margin-left: 694px;
+}
+*{
+    margin:0;
+    padding:-0;
+}
+#circle{
+    color: white;
+    background-color: white;
+    border-radius:27px;
+}
